@@ -19,7 +19,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>www.cw.pub</string>
+                <string>com.abchina.nc</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
