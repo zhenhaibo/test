@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.43.85:9528/mockHaiBo/pingan.ipa</string>
+                    <string>http://192.168.43.85:9528/mockHaiBo/pingan.ipa?checkcode=123&type=plist</string>
                 </dict>
                 <dict>
                     <key>kind</key>
